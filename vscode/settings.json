@@ -1,0 +1,23 @@
+{
+    "breadcrumbs.enabled": false,
+    "editor.codeLens": false,
+    "editor.fontFamily": "Fira Code Medium",
+    "editor.guides.indentation": false,
+    "editor.minimap.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "files.insertFinalNewline": true,
+    "files.restoreUndoStack": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.colorTheme": "Atom One Light",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.restoreViewState": false,
+    "workbench.editor.untitled.labelFormat": "name",
+    "workbench.iconTheme": "file-icons",
+    "workbench.list.openMode": "doubleClick",
+    "workbench.startupEditor": "none",
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.bracketPairColorization.enabled": false
+}
